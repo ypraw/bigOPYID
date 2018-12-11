@@ -33,3 +33,8 @@ npm install
 * enjoy the presentation
 
 * You can find the source code on folder **src**
+
+
+
+# **License**
+Source is available under the [Mit License](LICENSE.md)
