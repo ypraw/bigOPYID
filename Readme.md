@@ -37,4 +37,4 @@ npm install
 
 
 # **License**
-Source is available under the [Mit License](LICENSE.md)
+Source is available under the [Mit License](License.md)
