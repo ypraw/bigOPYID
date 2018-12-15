@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf",
+    "editor.formatOnSave": true,
+    "python.pythonPath": "/usr/bin/python"
+
+}
