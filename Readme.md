@@ -32,7 +32,7 @@ npm install
 
 * enjoy the presentation
 
-* You can find the source code on folder **src**
+* You can find the source code on folder [src](bigO_presentation/src) 
 
 
 
